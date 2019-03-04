@@ -24,6 +24,14 @@ tr, td {
 .b8 {border-style:ridge;}
 .b9 {border-style:inset;}
 .b10 {border-style:outset;}
+.b11 {
+  border-style:double;
+  border-radius:10px
+  }
+.b12 {
+  border-style:solid;
+  border-radius:100%;
+  }
 
 .navigation ul {
   margin: 0;
