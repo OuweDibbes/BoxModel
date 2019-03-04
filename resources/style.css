@@ -88,6 +88,7 @@ h2 {
   padding-bottom: 20px;
   padding-left: 30px;
   padding-right: 30px;
+  margin: 30px 20px;
   color: red;
   font-size: 14px;
   line-height: 48px;
@@ -106,6 +107,8 @@ p {
   color: grey;
   font-size: 16px;
   line-height: 48px;
+  padding: 10px 20px;
+  margin: 10px;
 }
 
 .pull-quote {
@@ -132,6 +135,7 @@ p {
   border: 1px solid red;
   border-radius: 3px;
   padding: 15px;
+  margin: 10px;
   color: white;
   display: inline-block;
   text-decoration: none;
